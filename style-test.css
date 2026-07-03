@@ -1,0 +1,79 @@
+body {
+    p {
+        font-family: Tahoma;
+    }
+    .boton {
+        padding: 20px 40px;
+        font-size: 24px;
+        background-color: #d63c3c;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-family: Tahoma;
+    }
+    .boton-chiquito {
+        padding: 10px 20px;
+        font-size: 12px;
+        background-color: #d63c3c;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-family: Tahoma;
+    }
+    .boton-chiquito:hover {
+        background-color: #ee7171;
+    }
+    h1 {
+        font-family: "Bpmf Iansui",Tahoma;
+    }
+    h2 {
+        font-family: Tahoma;
+    }
+    h4 {
+        font-family: "Bpmf Iansui",Tahoma;
+    }
+    .boton:hover {
+        background-color: #ee7171;
+    }
+    .header {
+        padding: 32px;
+        text-align: center;
+        background: #d31b1b;
+        color: white;
+        font-size: 24px;
+    }
+    .footer {
+        padding: 20px;
+        text-align: left;
+        background: #d31b1b;
+        color: white;
+        font-size: 15px;
+    }
+    a {
+        color: rgb(77, 12, 12)
+    }
+    .section {
+        padding: 32px;
+        padding-bottom: 2px;
+        text-align: center;
+        background: #dd4b4b;
+        color: white;
+        font-size: 18px;
+    }
+    figcaption {
+        font-family: Tahoma;
+    }
+    .row {
+        display: flex;
+    }
+
+.column {
+        flex: 25%;
+        padding: 5px;
+    }
+.image_alignedright {
+float: right
+}
+}
